@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<people>
+<person>
+<name>小明</name>
+<ID>1</ID>
+<building>1</building>
+<room>1</room>
+</person>
+<person>
+<name>小红</name>
+<ID>3</ID>
+<building>4</building>
+<room>4</room>
+</person>
+</people>
